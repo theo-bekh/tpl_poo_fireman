@@ -1,7 +1,10 @@
-# Ensimag 2A POO - TP 2018/19
+# Ensimag 2A POO - TP 2020
+
+Simulation d'une équipe de robots pompiers intelligents en Java.
+
 ## Fichiers
 
-- src: contient les classes fournies par les enseignants ainsi que les notres
+- src: contient les classes du projet
   -> simulation.Simulateur.java : Contient le main, une classe qui gère la simulation
 
 - cartes: quelques exemples de fichiers de donnees
